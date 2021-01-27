@@ -10,12 +10,12 @@ plugins {
 
 android {
 
-    compileSdkVersion(29)
+    compileSdkVersion(30)
 
     defaultConfig {
 
         minSdkVersion(21)
-        targetSdkVersion(29)
+        targetSdkVersion(30)
 
         versionName = componentsVersion
         versionCode = 1
